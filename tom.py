@@ -3231,7 +3231,7 @@ import time
 import os
 
 os.system('cls' if os.name == 'nt' else 'clear')
-print(" ---------- Sms Spam Tool ----------  \n ---------- Remake by DuyDuong ---------- ")
+print(" ---------- KUTOM TOOL SMS ----------  \n ---------- Remake by DuyDuong ---------- ")
 
 # ... (các hàm send_otp_via_... đã được định nghĩa ở trên)
 
@@ -3274,7 +3274,7 @@ def run(phone, i):
         time.sleep(1)
 
 os.system('cls' if os.name == 'nt' else 'clear')
-print(" ---------- SMS Spam Tool ---------- \n ---------- Remake by DuyDuong ---------- ")
+print(" ---------- KUTOM SMS TOOL ---------- \n ---------- Remake by DuyDuong ---------- ")
 if __name__ == "__main__":
     phone = input("Nhập số điện thoại: ")
   
